@@ -56,7 +56,7 @@
       <!-- Painel Jumbotron -->
       <div class="jumbotron">
          <div class="container">
-            <h1 class="display-4">MarvelAPI da Marvel</h1>
+            <h1 class="display-4">Personagens da Marvel</h1>
             <hr />
             <p class="text-muted">Developer: Jeosafá Ferreira do Nascimento</p>
          </div>
